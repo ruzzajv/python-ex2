@@ -1,6 +1,7 @@
 # Pra você ficar sagaz:
 - [Exercício 1 - Estruturas de Dados com `.json`](01/README.md)
 - [Exercício 2 - Estruturas de Dados com `.csv`](02/README.md)
+- [Exercício 2 - Estruturas de Dados com `.csv` (com `Decimal` e `datetime`)](03/README.md)
 
 
 # Restrições:
